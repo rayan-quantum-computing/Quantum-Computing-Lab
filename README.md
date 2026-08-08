@@ -1,7 +1,7 @@
 # Quantum Notebook
 
 Self-study log. I am learning quantum computing on my own,
-without a course or a supervisor.
+without a supervisor.
 
 ## What is in here
 
