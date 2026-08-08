@@ -5,23 +5,27 @@ without a supervisor.
 
 ## What is in here
 
-Small Qiskit programs, one per idea. Every file opens with a
-header comment: the date, what I was testing, what I expected,
-what actually came out.
+Small exercises where I test one idea at a time, and small
+tools I try to build and actually finish. Every file opens with
+a header comment: the date, what I was testing, what I expected,
+what actually came out. Attempts that failed stay in the repo.
+They are the ones I learn from.
 
-Attempts that failed stay in the repo. They are the ones I
-learn from.
+## Projects
+
+- **quantum_password.py** — a password generator using quantum
+  measurements. Found a bias in the first version, measured it,
+  fixed it. Full write-up: https://rayan-quantum.hashnode.dev/
+
+More will be added here as I finish them.
 
 ## Where I am now
 
 - single qubits, Hadamard gate, measurement statistics
-- next: two-qubit gates and entangled pairs
+- built the password generator above
+- next: two-qubit gates and entanglement
 
 ## Where I am trying to get
 
 Simulating molecular systems. That is years of work away and I
 am aware of the distance.
-
-## Notes 
-
-Longer write-ups and how I got into this: https://rayan-quantum.hashnode.dev/
