@@ -1,4 +1,4 @@
-# Quantum Notebook
+# Quantum Computing Lab
 
 Self-study log. I am learning quantum computing on my own,
 without a supervisor.
