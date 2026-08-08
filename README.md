@@ -15,7 +15,7 @@ They are the ones I learn from.
 
 - **quantum_password.py** — a password generator using quantum
   measurements. Found a bias in the first version, measured it,
-  fixed it. Full write-up: https://rayan-quantum.hashnode.dev/
+  fixed it. Full write-up: https://rayan-quantum.hashnode.dev/titre-fixing-a-bias-in-my-quantum-password-generator
 
 More will be added here as I finish them.
 
