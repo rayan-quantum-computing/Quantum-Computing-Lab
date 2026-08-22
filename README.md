@@ -8,7 +8,8 @@ Small exercises where I test one idea at a time, and small tools I try to build 
 
 ## Projects
 
-- **quantum_password.py** — A password generator using quantum measurements. I found a statistical bias in the first version, measured it, and fixed it. 
+- **quantum_password.py** — A password generator using quantum measurements. I found a statistical bias in the first version, measured it, and fixed it. https://github.com/rayan-quantum-computing/quantum-password-
+
   Full write-up: https://rayan-quantum.hashnode.dev/
 
 More projects will be added here as I finish them.
